@@ -1,5 +1,5 @@
  - test if torpedo store usage alternates
  - test if stotre empty then fires the other
  - test if there is a failure then the other one not fire
- - test if both store can be used then fire mode all fires
  - test if one is empty then fire mode all not fires
+ - test if all store empty then fire mode all not fires
